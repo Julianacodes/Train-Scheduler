@@ -1,0 +1,28 @@
+
+.jumbotron {
+    color:white;
+    background-position-y: 10%;
+    color: white;
+    background-color: teal;
+    border-style: solid;
+    border-color: grey;
+
+}
+
+div.panel-body {
+    background-color: teal;
+    color: white;
+    border-style: solid;
+    border-color: grey;
+
+}
+
+.btn-primary{
+    background-color: teal;
+    border-color: white;
+    font-weight: bold;
+}
+div.panel-heading{
+    border-style: solid;
+    border-color: grey;
+}
